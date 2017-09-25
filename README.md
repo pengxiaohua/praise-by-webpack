@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # praise-by-koa
 
 ### 1、功能介绍
@@ -107,3 +108,7 @@ node e2e.js
 
 
 
+=======
+# praise-by-webpack
+使用webpack等对praise项目工程化
+>>>>>>> 6b82c371bd8404adcf203af75a73996eeaa3ff8f
